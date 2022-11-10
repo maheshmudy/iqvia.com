@@ -1,0 +1,172 @@
+/*{
+    border: 2px solid black;
+}*/
+
+/*bb---->border bottom with green color*/
+.bb:hover{
+    border-bottom: #43b02a 3px solid;
+}  
+.top-nav{
+    font-size: 12px;
+    background-color: white;
+    width: 120px;   
+    font-weight: 800; 
+    border-style: none;
+}
+/*sb---->second nav bar*/
+.sn{
+    color: black;
+    font-size: 18px;
+    border-style: none;
+    background-color: white;
+}
+.sn:hover{
+    border-bottom: #43b02a 3px solid;
+}
+/*nb---->nav button*/
+.nb:hover{
+    background-color: #43b02a;
+    color: white;
+    font-size: 12px;
+}
+.ch{
+    font-size: 64px;
+    color: #00a3e0;
+}
+.row6
+{
+    height: 220px;    
+}
+.row10
+{
+    height: 844px;
+    background-image: url("algorart_institute-insights-module.png" );
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position: center;   
+}
+
+.colu
+{
+    height: 203px;
+    width: 190px;
+}
+.nav-button{
+width: 142px;
+height: 48px;
+letter-spacing: .36px;
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+font-size: 12px;
+font-weight: 700;
+font-family: "Noto Sans", sans-serif;
+min-width: 120px;
+border: 2px solid #43b02a;
+float: left;
+color: #43b02a;
+cursor: pointer;
+}
+.buttongreen
+{
+padding-left: 50px;
+padding-right:50px;
+height: 60px;
+margin-top: 25px;
+font-family: "Noto Sans", sans-serif;
+min-width: 120px;
+border: 2px solid #43b02a;
+float: left;
+font-weight: 600;
+justify-content: center;
+align-items: center;
+text-align: center;
+font-size: 14px;
+color: #43b02a;
+cursor: pointer;
+}
+.buttongreen:hover{
+    background-color: #43b02a;
+    color: white;
+}
+p{
+    font-family: "Noto Sans", sans-serif;
+    font-size: 16px;
+    color: #2b3a42;
+}
+h3{
+    color: #00a3e0;
+    font-size: 22px;
+    font-weight:100;
+    font-family: "Noto Sans", sans-serif;
+}
+.im{
+    height: 127px;
+    width: 127px;
+}
+.butt{
+    color: white;
+    border-color: white;
+    background-color: transparent;
+    width:200px;
+    height:61px;
+    padding:26px 26px; 
+    min-width: 120px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    display: flex;
+}
+.butt:hover{
+    background-color: white;
+    color: #00a3e0;
+    font-weight: 600;
+
+}
+/* cd is card body*/
+.cb{
+    height: 230px;
+    background-color: white;
+}
+.topic{
+    color: #959ca0;
+    font-weight: bold;
+}
+.topic:hover{
+    color: #43b02a;
+    cursor: pointer;
+}
+img{
+    cursor: pointer;
+
+}
+.mmm{
+    border-bottom: #43b02a solid 4px;
+    
+}
+.fa{
+    padding: 10px;
+    margin: 5px;
+    font-size: 10px;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+}
+/* footer style*/
+.ff{
+    text-decoration: none;
+    color: #2b3a42;
+    font-size: 14px;
+    line-height: 23px;
+    text-transform: uppercase;
+    font-family: "Noto Sans", sans-serif;
+}
+/*footer small div*/
+.fsd{
+    width: 125px;
+    color: #2b3a42;
+    font-size: 10px;
+    line-height: 19px;
+
+}
